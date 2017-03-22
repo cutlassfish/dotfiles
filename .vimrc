@@ -54,8 +54,8 @@ set background=dark
 set number
 set showmatch
 set autoindent
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set smarttab
 
 syntax on
